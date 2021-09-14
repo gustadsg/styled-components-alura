@@ -1,0 +1,13 @@
+{
+  "name": "husky-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gustadsg@outlook.com.br <gustadsg@outlook.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^7.0.0"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  }
+}
