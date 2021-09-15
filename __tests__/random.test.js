@@ -1,5 +1,5 @@
 describe("random", () => {
   test("should return true", () => {
-    expect(true).toBe(false);
+    expect(true).toBe(true);
   });
 });
